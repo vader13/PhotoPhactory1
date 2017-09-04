@@ -1,0 +1,150 @@
+/*
+ * Start Bootstrap - Full Slider (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+html,
+body {
+    height: 100%;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+.navbar {
+    margin-bottom: 0px;
+    border: 0px;
+}
+.navbar {
+    border-radius: 0px;
+}
+.navbar-default {
+    background-color: #fff;
+    
+    transition: all 0.3s;
+}
+.navbar-default {
+    background-color: #292c2f;
+    border: 0px;
+}
+.navbar {
+    border-radius: 0px;
+}
+.navbar-brand img {
+    padding-top: 2px;
+    width: 120px !important;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #EA6045;
+}
+
+.top-nav-collapse {
+    padding: 0; 
+    background: rgba(62, 84, 92, 0.9);
+}
+
+.white, .white:hover, .white:focus
+{
+    color: #fff;
+    width: 100% !important;
+}
+.white-color{
+    color: #fff !important;
+}
+.block
+{
+    display: block;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #fff;
+    text-transform: uppercase;
+    background-color: rgb(0, 172, 194);
+}
+.navbar-default .navbar-nav > li > a
+{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus
+{
+    color: #fff;
+    text-transform: uppercase;
+    background-color: rgb(0, 172, 194);
+}
+.affix {
+    background-color: #ffffff !important;
+}
+.affix .navbar-nav > li > a:hover, .affix .navbar-nav > li > a:focus
+{
+    background-color: rgba(12, 184, 182) !important;
+}
+#header{
+    background: url('../ Contact Us /1.jpg') no-repeat fixed;
+    background-size: cover;
+    min-height: 720px;
+    position: relative;
+}
+.bg-color{
+    background-color: RGBA(13, 70, 83, 0.78);
+    min-height: 650px;
+}
+.banner-info{
+    padding-top: 190px;
+}
+.banner-logo img{
+    display: inline-block;
+}
+.banner-text{
+    color: #fff;
+}
+.banner-text span{
+    font-size: 72px;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-family: 'FV Almelo', serif;
+    letter-spacing: 3px; 
+}
+.banner-text h3{
+    font-family: "FV Almelo",sans-serif;
+    font-weight: 300;
+    font-size: 48px;
+    color: #00ACC2;
+}
+.overlay-detail a i {
+    text-align: center;
+    position: absolute;
+    bottom: 25px;
+    font-size: 38px;
+    color: #fff;
+    margin: 0 auto;
+}
+.text-primary i{
+    padding-top: 8px;
+    display: inline-block;
+}
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+footer {
+    margin: 50px 0;
+}
